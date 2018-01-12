@@ -1,0 +1,5 @@
+com\niit\model\User.class
+com\niit\controll\homecontroller.class
+com\niit\controll\usercontroller.class
+com\niit\DAO\UserDAO.class
+com\niit\DAOImpl\UserDAOImpl.class
